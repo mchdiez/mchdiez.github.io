@@ -1,7 +1,7 @@
 title: María Chavero-Díez, MSc
 logo: /assets/img/pfp.png
 description: Bioinformatics Research Engineer - MSc Student
-theme: jekyll-theme-minimal
 url: "https://mchdiez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mchdiez
 github_username:  mchdiez
+theme: jekyll-theme-minimal
