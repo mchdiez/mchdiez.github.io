@@ -4,6 +4,7 @@ I'm María, a Bioinformatics research engineer at the **[Barcelona Supercomputin
 
 Right now, my work mainly focuses on the development of distributed computing research infrastructures and their application in areas such as personalized medicine. I’m also experienced in software development and really interested in the application of technological knowledge to the treatment of biological data. 
 
+
 ### Employment
 
 #### **Bioinformatics Research Engineer**  
@@ -37,6 +38,7 @@ This project involved the process of planning and programming a cloud hosted web
 *Madrid, ES - March 2015 to July 2015*
 Paid Internship
 
+
 ### Education
 
 #### **MSc in Bioinformatics and Biostatistics**  
@@ -67,6 +69,7 @@ Activities and societies: Videogame design and programming society "UE Game Stud
 Research internship related to the completion of my Biomedical Engineering Master's dissertation: "Study of Huntington's disease mosaicism and its relationship with its possible genetic variations"
 This project was carried out through the development and application of bioinformatic pipelines in collaboration with the Sequentia Biotech team and under the supervision of Dr. Riccardo Aiese Cigliano.
 
+
 ### Conference Contributions
 
 #### **Posters**  
@@ -75,6 +78,7 @@ This project was carried out through the development and application of bioinfor
 
 #### **Oral Presentations**  
 - **European Galaxy Days** (2022), Freiburg, Germany
+
 
 ### Relevant Training
 
@@ -99,6 +103,7 @@ Course completed as part of my bachelors degree.
 **Cisco (2013)**  
 Course completed as part of my bachelors degree.
 
+
 ### Volunteer Experience
 
 #### **Volunteer Staff at ECCB 2021**  
@@ -112,6 +117,7 @@ Helped as a mentor in the educational and training project for the development a
 #### **Eldery Care Volunteer**  
 **Red Cross**
 *(June 2012 to September 2014)* 
+
 
 ### Skills
 
@@ -143,6 +149,7 @@ Helped as a mentor in the educational and training project for the development a
 - Knowledge of Microsoft Office Suite.
 - Agile methodologies, including Scrum.
 - Strong presentation and writing skills.
+
 
 ### Languages  
 
